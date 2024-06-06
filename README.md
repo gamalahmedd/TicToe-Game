@@ -1,9 +1,9 @@
 # TicToe-Game
-This project is a basic Tic-Tac-Toe game developed in Java. It provides a graphical user interface for two players to play the game.
+This project is a basic Tic-Tac-Toe game developed in Java. It provides a graphical user interface for one player to play the game vs computer.
 
 ## Features
 - Simple and intuitive GUI.
-- Two-player mode.
+- One-player mode.
 - Basic game logic for Tic-Tac-Toe.
 
 ## Technologies
