@@ -41,6 +41,12 @@ This project is a basic Tic-Tac-Toe game developed in Java. It provides a graphi
 
 ![alt text](https://static.javatpoint.com/tutorial/ai/images/mini-max-algorithm-in-ai-step4.png)
 
+## Screenshots
+![alt text](https://serving.photos.photobox.com/29204512de3868c2c0b4cd3c468f7be928f4ed1564b2399ebd2c3886ab3c3f2711a12e0d.jpg)
+
+![alt text](https://serving.photos.photobox.com/618213622cbf1fec9535576aa8330a2b6f899ee1ad5ada7aea59a25ce7dc1f52d8c177d4.jpg)
+
+
 ## Usage
 1. Run the `Main` class located in the `src` directory.
 2. The game window will appear, and you can start playing.
